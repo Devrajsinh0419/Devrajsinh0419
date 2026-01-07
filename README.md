@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
   <br/>
   <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,docker" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,docker,postman" />
   <br/>
   <!-- OS & Dev Environment -->
   <img src="https://skillicons.dev/icons?i=linux,github,vscode" />
