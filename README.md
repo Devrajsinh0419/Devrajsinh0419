@@ -1,20 +1,32 @@
 <h1 align="left">DevRaj Sinh</h1>
+
 <p align="left">
-  <strong>Backend Developer</strong> · Python · Django · Modern Web Applications
+  <strong>Backend Developer</strong> · Python · Django · AI/ML · Linux
 </p>
- 
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manishhsuthar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=Devrajsinh0419&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <hr/>
 
 <h3>🚀 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,firebase,mongodb" />
+  <!-- Backend & Core -->
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss,html,css,git,figma,linux" />
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+  <br/>
+  <!-- Frontend (Working Knowledge) -->
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <br/>
+  <!-- Database & Tools -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,docker" />
+  <br/>
+  <!-- OS & Dev Environment -->
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode" />
 </p>
 
 <hr/>
@@ -22,21 +34,18 @@
 <h3>🌍 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manish-suthar-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/manishhsuthar" target="_blank">
+  <a href="https://github.com/Devrajsinh0419" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://x.com/Max987079" target="_blank">
+  <a href="https://x.com/YOUR_TWITTER" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://bento.me/manishsuthar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
-📧 **Email:** `manishsuthar.dev@gmail.com`
+📧 <strong>Email:</strong> <code>devrajsinhgharia.dev@gmail.com</code>
 
 <hr/>
 
@@ -44,50 +53,42 @@
 
 | Project | Overview | Tech Stack |
 |-------|---------|-----------|
-| 🔗 **[EduConnect](https://github.com/manishhsuthar/EduConnect)** | Education collaboration & guidance platform | React, Node.js, MongoDB |
-| 🔗 **[ReachOut](https://github.com/maHi there 👋nishhsuthar/ReachOut)** | College community help & support system | Flask, Python |
-| 🔗 **[LifelineConnect](https://github.com/manishhsuthar/Lifeline-Connect)** | Blood donation & donor management platform | React, Firebase |
-| 🔗 **[PathFinder](https://github.com/manishhsuthar/PathFinder)** | Performance Analysis & Career Recommendation | Django, React |
+| 🔗 **Student Performance Analysis (SPA)** | AI-based academic performance & career recommendation system | Django, ML, Python |
+| 🔗 **AI Classroom Assistant** | Local LLM-powered chatbot & quiz system | Flask, Mistral, Gemma |
+| 🔗 **Path Finder** | Career roadmap & student guidance platform | Django, React |
+| 🔗 **HR Management System** | Full-stack HRMS with Dockerized backend | Django, PostgreSQL |
 
 <hr/>
 
 <h3>📈 GitHub Insights</h3>
 
 <table>
-  <!-- <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manishhsuthar&show_icons=true&theme=dracula&hide_border=true&border_radius=10" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishhsuthar&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
-    </td>
-  </tr> -->
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=manishhsuthar&theme=dracula&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Devrajsinh0419&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
     </td>
     <td>
-      <img src="https://roadmap.sh/card/wide/6870fde1dae46688ec0eee4c?variant=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh0419&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=Devrajsinh0419&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <hr/>
 
-<h3>🏅 Holopin Badge</h3>
-
-<p align="center">
-  <img src="https://www.holopin.io/userbadge/cmcys9j1j118807jpgajznrpx" alt="Holopin Badge" />
-</p>
-
-<hr/>
-
 <h3>🎯 About Me</h3>
 
-- 🎧 Enjoys coding with music  
-- 💡 Built first project **before entering university**  
-- 📚 Currently learning **LLM MODELS** 
+<ul>
+  <li>🧠 Strong interest in <b>AI, ML & LLMs</b></li>
+  <li>🐧 Linux daily driver (Fedora)</li>
+  <li>🚀 Built real-world projects before university</li>
+  <li>📚 Currently learning <b>Model Optimization & Local AI Deployment</b></li>
+</ul>
 
 <hr/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishhsuthar&theme=tokyo-night&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devrajsinh0419&theme=tokyo-night&radius=16" />
