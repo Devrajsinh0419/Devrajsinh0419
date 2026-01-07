@@ -1,4 +1,4 @@
-<h1 align="left">DevRaj Sinh</h1>
+<h1 align="left">Devrajsinh</h1>
 
 <p align="left">
   <strong>Backend Developer</strong> · Python · Django · AI/ML · Linux
