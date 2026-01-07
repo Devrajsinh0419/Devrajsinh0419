@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=Devrajsinh0419&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.vercel.app/?user=Devrajsinh0419&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
